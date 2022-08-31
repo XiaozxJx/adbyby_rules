@@ -1,1 +1,1 @@
-# xwhyc-rules
+# adbyby_rules
